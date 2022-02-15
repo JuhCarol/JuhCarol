@@ -1,4 +1,4 @@
-# Oii, sou a Julia, estudante de programação e futura desenvolvedora !!
+# Oii, sou estudante de programação e futura desenvolvedora !!
 
 💻 Cursando: Analise e Desenvolvimento de Sistemas (ADS) <br>
 🎃 Pronome: ela/dela 
