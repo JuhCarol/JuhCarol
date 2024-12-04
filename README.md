@@ -1,7 +1,4 @@
-# Oii, sou estudante de programação e futura desenvolvedora !!
 
-💻 Cursando: Analise e Desenvolvimento de Sistemas (ADS) <br>
-🎃 Pronome: ela/dela 
 
 <div align="left">
   <a href="https://github.com/JuhCarol">
